@@ -3,11 +3,11 @@ List activity in DSA
 
 Let us say your expense for every month are listed below,
 
--January - 5200
--February - 6350
--March - 4600
--April - 4130
--May - 3190
+- January - '5200'
+- February - '6350'
+- March - '4600'
+- April - '4130'
+- May - '3190'
 
 Create a list to store these monthly expenses and using that find out:
 1. In Feb, how many pesos you spent extra compare to January?
